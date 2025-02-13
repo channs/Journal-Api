@@ -7,7 +7,6 @@ Backend API for the Technology Leadership Journal application. This API provides
 - Node.js
 - Express.js
 - SQLite database
-- Swagger/OpenAPI documentation
 
 ## Getting Started
 
@@ -21,7 +20,7 @@ npm install
 npm run dev
 ```
 
-The server will start on http://localhost:3001 with API documentation available at http://localhost:3001/api-docs
+The server will start on http://localhost:3001
 
 ## API Endpoints
 
